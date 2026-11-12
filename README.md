@@ -20,16 +20,16 @@ Excel (viewing the original data)
 Python and pandas (the cleaning script)
 
 Folder structure
-Week4_Consumer_Complaints_DataAnalytics/
-├── README.md
-├── 01_Data/
-├── 02_Data_Cleaning/
-├── 03_KPIs_and_Scripts/
-├── 04_Dashboard/
-├── 05_Insights/
-├── 06_Evidence/
-├── 07_Presentation/
-└── 08_Social_Posts/
+Week4_Consumer_Complaints_DataAnalytics
+README.md
+01_Data
+02_Data_Cleaning
+03_KPIs_and_Scripts
+04_Dashboard
+05_Insights
+06_Evidence
+07_Presentation
+08_Social_Posts
 
 01_Data: the original Excel file (unchanged), the data dictionary, and the cleaned CSV.
 02_Data_Cleaning: the data quality documentation and the cleaning script.
